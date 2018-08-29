@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Wiyata-Light
+Comment=The Awesome Theme of WiyataOS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Wiyata-Light
+MetacityTheme=WiyataOS
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
